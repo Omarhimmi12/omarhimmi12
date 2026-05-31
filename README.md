@@ -18,7 +18,7 @@
 
 # 💻 Technical skill & Tools:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,javascript,css,bootstrap,php,react,mysql,git,github,python&perline=7" style="height:120px;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,javascript,css,bootstrap,php,react,laravel,mysql,git,github,python&perline=7" style="height:120px;" />
 </p>
 
 # 📊 GitHub Stats:
