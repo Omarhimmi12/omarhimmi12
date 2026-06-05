@@ -12,7 +12,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" style="height:48px;" />
   </a>
   <a href="https://portfolio-omar-himmi.vercel.app/" target="_blank">
-    <img src="logo.png" style="height:48px;" />
+    https://drive.google.com/file/d/1enCjHPMbv72JJMpHlaKmqB5S9PwajgsE/view?usp=sharing
   </a>
 </p>
 
