@@ -17,9 +17,9 @@
 </p>
 
 # 💻 Technical skill & Tools:
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,javascript,css,bootstrap,php,react,laravel,mysql,git,github,python&perline=7" style="height:120px;" />
-</p>
+   <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?  theme=dark&i=html,javascript,css,bootstrap,php,react,laravel,mysql,postgresql,mongodb,prisma,git,github,python&perline=7" style="height:120px;" />
+  </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Omarhimmi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
