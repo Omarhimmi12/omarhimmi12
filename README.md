@@ -1,6 +1,8 @@
 ## Hi there, I am Omar Himmi 👋
 
-🚀 Aspiring Web Developer | Driven by clean design and engaging user experiences<br>🎓 Currently honing skills at OFPPT with a strong foundation in web technologies<br>📈 Enthusiastic about mastering modern tools and contributing to open-source projects<br>🤝 Open to collaboration, constructive feedback, and building meaningful developer connections<br><br>
+🚀 Junior Full-Stack Developer | Driven by clean architecture, modern React frameworks, and engaging user experiences<br>
+🎓 Digital Development Graduate | Solid foundation in full-stack web technologies, database management, and scalable application design <br>
+📈 Passionate Builder | Experienced in crafting production-ready web applications, interactive mapping solutions, and seamless user interfaces<br>
 
 
 ## 🌐 Socials:
@@ -22,9 +24,9 @@
   </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omarhimmi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Omarhimmi12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhimmi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Omarhimmi12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Omarhimmi12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omarhimmi12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Omarhimmi12&limit=5&theme=dark&combine_all_yearly_contributions=true)
